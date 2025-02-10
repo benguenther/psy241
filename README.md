@@ -1,10 +1,9 @@
-# Sample Problems 
-## for an Undergraduate Statistics in Psychology Course
+# Sample Problems for an Undergraduate Statistics in Psychology Course
 
-### Completed Versions
+## Completed Versions
 * Calculating the standard deviation for population data
 * Calculating the standard deviation for sample data
 * Calculating *z*-scores
 
-### Drafts in Progress
+## Drafts in Progress
 * Probability:  *z*-scores and proportions of the normal distribution
