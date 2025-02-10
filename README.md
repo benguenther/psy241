@@ -1,5 +1,7 @@
 # Sample Problems for an Undergraduate Statistics in Psychology Course
 
+An ongoig project to create a series of juypter notebooks that can be used to randomly generate sample problems and their worked solutions using python
+
 ## Completed Versions
 * Calculating the standard deviation for population data
 * Calculating the standard deviation for sample data
